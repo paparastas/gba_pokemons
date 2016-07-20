@@ -1,0 +1,22 @@
+body{
+	background: #580b8d;
+	margin: 20px 0;
+}
+
+.main{
+	background: #fff;
+}
+
+hr{
+	border-top: 1px solid #ccc;
+	margin: 20px -15px;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	border: 1px solid black;
+	border-radius: 7px;
+}
