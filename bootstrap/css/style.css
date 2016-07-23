@@ -14,9 +14,20 @@ hr{
 
 h1{
 	text-align: center;
+	font-size: 3rem;
+}
+
+h2{
+	font-size: 2.5rem;
 }
 
 img{
 	border: 1px solid black;
 	border-radius: 7px;
+}
+
+@media (max-width: 480px) {
+	html{
+		font-size: 8px;
+	}
 }
